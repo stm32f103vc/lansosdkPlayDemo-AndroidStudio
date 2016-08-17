@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/progress_overlay"
+    android:layout_width="800dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true">
+
+    <SeekBar
+        android:id="@+id/player_overlay_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="2dip"
+        android:minHeight="2dip"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:layout_alignParentTop="true"
+        android:progressDrawable="@drawable/po_seekbar"
+        android:thumb="@drawable/seekbar_thumb"
+        android:focusable="true"/>
+
+    <TextView
+        android:id="@+id/player_overlay_time"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/player_overlay_seekbar"
+        android:layout_alignLeft="@+id/player_overlay_seekbar"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="12dip"
+        android:gravity="left"
+        android:text="--:--"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/player_overlay_length"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/player_overlay_seekbar"
+        android:layout_alignParentRight="true"
+        android:layout_alignRight="@+id/player_overlay_seekbar"
+        android:layout_marginRight="12dip"
+        android:gravity="right"
+        android:text="--:--"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@+id/player_overlay_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/player_overlay_length">
+        
+
+        
+          <RelativeLayout 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            >
+                  <Button
+		            android:id="@+id/player_overlay_play"
+            		android:layout_width="50dip"
+            		android:layout_height="50dip"
+		            android:layout_centerInParent="true"
+		            android:background="@drawable/ic_pause_circle_normal"
+		            android:focusable="true"/>
+        </RelativeLayout>
+   
+        
+    </LinearLayout>
+</RelativeLayout>

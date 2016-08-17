@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.4.0$Generated" generated="true"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res"/><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\generated\res\rs\debug"/><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\debug\res"/></dataSet><dataSet config="23.4.0" from-dependency="true" generated-set="23.4.0$Generated"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\res"/></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res"><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res\drawable-hdpi-v4\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res\drawable-mdpi-v4\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res\drawable-xhdpi-v4\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res\values\values.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><string name="app_name">com.lansosdkplay.sdk</string><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res\values-v11\values-v11.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\res\values-v14\values-v14.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res"><file name="btn_pause_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\btn_pause_bg.xml" qualifiers="" type="drawable"/><file name="btn_videoedit_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\btn_videoedit_bg.xml" qualifiers="" type="drawable"/><file name="btn_videoplay_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\btn_videoplay_bg.xml" qualifiers="" type="drawable"/><file name="btn_videosize_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\btn_videosize_bg.xml" qualifiers="" type="drawable"/><file name="chkbox_lock_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\chkbox_lock_bg.xml" qualifiers="" type="drawable"/><file name="corners_btn_orange_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\corners_btn_orange_bg.xml" qualifiers="" type="drawable"/><file name="effect_chkbox_bg" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\effect_chkbox_bg.xml" qualifiers="" type="drawable"/><file name="po_seekbar" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\po_seekbar.xml" qualifiers="" type="drawable"/><file name="seekbar_thumb" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable\seekbar_thumb.xml" qualifiers="" type="drawable"/><file name="fit_screen_btn_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\fit_screen_btn_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="fit_screen_btn_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\fit_screen_btn_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_seekbar_thumb_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\ic_seekbar_thumb_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_seekbar_thumb_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\ic_seekbar_thumb_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_edit_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_edit_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_edit_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_edit_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_lockbtn_locked" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_lockbtn_locked.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_lockbtn_unlock" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_lockbtn_unlock.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_pause_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_pause_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_pause_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_pause_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_play_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_play_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_play_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-hdpi\video_play_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="arrow_right" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\arrow_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="device_swich_close" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\device_swich_close.png" qualifiers="xhdpi-v4" type="drawable"/><file name="device_switch_on" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\device_switch_on.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_pause_circle_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\ic_pause_circle_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_play_circle_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\ic_play_circle_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_seekbar_thumb_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\ic_seekbar_thumb_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_seekbar_thumb_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xhdpi\ic_seekbar_thumb_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_pause_circle_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xxhdpi\ic_pause_circle_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_play_circle_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xxhdpi\ic_play_circle_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_seekbar_thumb_normal" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xxhdpi\ic_seekbar_thumb_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_seekbar_thumb_pressed" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\drawable-xxhdpi\ic_seekbar_thumb_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="player" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\player.xml" qualifiers="" type="layout"/><file name="player_effect" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\player_effect.xml" qualifiers="" type="layout"/><file name="player_hud" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\player_hud.xml" qualifiers="" type="layout"/><file name="player_hud_effect" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\player_hud_effect.xml" qualifiers="" type="layout"/><file name="play_3d" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\play_3d.xml" qualifiers="" type="layout"/><file name="slide_adjust_layout" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\slide_adjust_layout.xml" qualifiers="" type="layout"/><file name="slide_effect_layout" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\layout\slide_effect_layout.xml" qualifiers="" type="layout"/><file name="main" path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values\attrs.xml" qualifiers=""><attr name="type">
+		        <enum name="circle" value="0"/>
+		        <enum name="round" value="1"/>
+		    </attr><declare-styleable name="SlidingLayer">
+        <attr format="boolean" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="closeOnTapEnabled"/>
+        <attr format="boolean" name="openOnTapEnabled"/>
+        <attr format="dimension" name="offsetWidth"/>
+        <attr format="enum" name="stickTo">
+            <enum name="auto" value="0"/>
+            <enum name="right" value="-1"/>
+            <enum name="left" value="-2"/>
+            <enum name="middle" value="-3"/>
+            <enum name="top" value="-4"/>
+            <enum name="bottom" value="-5"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CustomImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+        <attr name="src"/>
+    </declare-styleable><declare-styleable name="CircularSeekBar">
+        <attr format="integer" name="progress"/>
+        <attr format="integer" name="max"/>
+        <attr format="boolean" name="move_outside_circle"/>
+        <attr format="boolean" name="maintain_equal_circle"/>
+        <attr format="boolean" name="use_custom_radii"/>
+        <attr format="boolean" name="lock_enabled"/>
+        <attr format="float" name="circle_x_radius"/>
+        <attr format="float" name="circle_y_radius"/>
+        <attr format="float" name="circle_stroke_width"/>
+        <attr format="float" name="pointer_radius"/>
+        <attr format="float" name="pointer_halo_width"/>
+        <attr format="float" name="pointer_halo_border_width"/>
+        <attr format="string" name="circle_color"/>
+        <attr format="string" name="circle_progress_color"/>
+        <attr format="string" name="pointer_color"/>
+        <attr format="string" name="pointer_halo_color"/>
+        <attr format="string" name="pointer_halo_color_ontouch"/>
+        <attr format="integer" name="pointer_alpha_ontouch"/>
+        <attr format="float" name="start_angle"/>
+        <attr format="float" name="end_angle"/>
+        <attr format="string" name="circle_fill"/>
+    </declare-styleable><attr format="dimension" name="borderRadius"/><declare-styleable name="CircleImageViewWithBorder">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+    </declare-styleable><attr format="reference" name="src"/><declare-styleable name="PullToRefresh">
+
+        <!-- A drawable to use as the background of the Refreshable View -->
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        <!-- A drawable to use as the background of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        <!-- Text Color of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        <!-- Mode of Pull-to-Refresh that should be used -->
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            <!-- These last two are depreacted -->
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        <!-- Whether the Indicator overlay(s) should be used -->
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
+        <attr format="reference" name="ptrDrawable"/>
+
+        <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        <!-- Style of Animation should be used displayed when pulling. -->
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        <!-- Whether the user can scroll while the View is Refreshing -->
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        <!--
+        	Whether PullToRefreshListView has it's extras enabled. This allows the user to be 
+        	able to scroll while refreshing, and behaves better. It acheives this by adding
+        	Header and/or Footer Views to the ListView.
+        -->
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        <!--
+        	Whether the Drawable should be continually rotated as you pull. This only
+        	takes effect when using the 'Rotate' Animation Style.
+        -->
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="ColorPicker">
+        <attr format="dimension" name="color_wheel_radius"/>
+        <attr format="dimension" name="color_wheel_thickness"/>
+        <attr format="dimension" name="color_center_radius"/>
+        <attr format="dimension" name="color_center_halo_radius"/>
+        <attr format="dimension" name="color_pointer_radius"/>
+        <attr format="dimension" name="color_pointer_halo_radius"/>
+    </declare-styleable><declare-styleable name="CircleButton">
+	        <attr format="color" name="cb_color"/>
+	        <attr format="dimension" name="cb_pressedRingWidth"/>
+	    </declare-styleable><declare-styleable name="ColorBars">
+        <attr format="dimension" name="bar_thickness"/>
+        <attr format="dimension" name="bar_length"/>
+        <attr format="dimension" name="bar_pointer_radius"/>
+        <attr format="dimension" name="bar_pointer_halo_radius"/>
+        <attr format="boolean" name="bar_orientation_horizontal"/>
+    </declare-styleable></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values\colors.xml" qualifiers=""><color name="whitetransparent">#dcffffff</color><color name="orange500transparent">#FF6347</color><color name="grey400transparent">#80bdbdbd</color><color name="grey900transparent">#80212121</color><color name="black">#000001</color><color name="white">#ffffff</color><color name="grey50transparent">#dcfafafa</color><color name="blacktransparent">#b4000000</color></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values\dimens.xml" qualifiers=""><dimen name="overlay_padding_bottom">8dip</dimen><dimen name="adv_options_video_width">224dp</dimen><dimen name="time_margin_sides">12dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="seekbar_height">2dip</dimen><dimen name="dialog_time_picker_width">240dp</dimen><dimen name="default_margin">16dp</dimen><dimen name="overlay_padding_sides">5dp</dimen><dimen name="media_ctrl_margin_top">20dp</dimen><dimen name="half_default_margin">8dp</dimen><dimen name="effect_ckx_height">30dp</dimen><dimen name="images_margin_sides">10dp</dimen><dimen name="effect_ckx_width">60dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="overlay_padding_top">10dip</dimen><dimen name="file_picker_height">-1px</dimen><dimen name="overlay_margin">2dp</dimen><dimen name="file_picker_width">300dip</dimen><dimen name="actionBarSize">56dp</dimen><dimen name="tv_overscan_horizontal">0dp</dimen><dimen name="adv_options_music_width">152dp</dimen><dimen name="tv_overscan_vertical">0dp</dimen><dimen name="adv_options_margin">24dp</dimen></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values\strings.xml" qualifiers=""><string name="surface_fit_horizontal">水平匹配</string><string name="sound_off">声音关闭</string><string name="surface_fit_vertical">垂直匹配</string><string name="about_lansosdkplay_text">这个是我们的LanSoSdk中的播放套件, 提供视频播放功能, 全面支持软解和硬解,支持速率可调,支持音频可调,支持3D播放等功能.\n演示版本可以从这里下载:https://github.com/LanSoSdk/LanSoSdkPlayDemo,欢迎使用.</string><string name="surface_fill">拉伸填充</string><string name="sound_on">声音开启</string><string name="current_lansosdk_version">LanSoSdkPlay版本:</string><string name="current_ui_version">当前版本:</string><string name="about_this_app">关于本软件:</string><string name="about_this_app_text">把普通的视频, 转换为红蓝3D或左右屏3D形式来播放.\n其中红蓝3D,需要您带上红蓝3D眼镜才显示正常效果.\n左右屏3D, 是需要带网上买的很多的3D头戴式眼镜,比如谷歌的cardboard眼镜,魔镜等才可以看到3D效果.</string><string name="about_lansosdkplay">关于LanSoSdkPlay:</string><string name="lansosdk_publish">LanSoSdk提供</string><string name="hint">Hint(提示)</string><string name="volume">音量</string><string name="hello_world">Hello world!</string><string name="about_us">关于我们::</string><string name="locked">已锁定</string><string name="action_settings">Settings</string><string name="app_name">lansosdkPlayDemo</string><string name="no_free_hint">the project is only used to Demonstrate,Advanced features are not free and only runing on this.\n(工程仅仅是演示,高级功能不免费,只能运行)</string><string name="surface_original">居中</string><string name="about_us_text">提供android/ios移动平台的视频编解码,录制/播放等相关的多媒体开发和定制.提供的SDK均是调用简单,功能强大,稳定可靠.采用基本功能免费, 公司定制功能收费的盈利模式,欢迎和我们联系.support@lansongtech.com</string><string name="unlocked">已解锁</string><string name="set_video_source">Please set a variable path at MainActivity.java(请设置播放源)</string><string name="brightness">亮度</string><string name="surface_best_fit">最为合适</string><string name="back_quit_lock">再次按下“返回”可退出视频播放</string><string name="unseekable_stream">播放时不支持定位的流</string></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values\styles.xml" qualifiers=""><style name="adjustItemSeekbarStyle">
+            <item name="android:layout_width">match_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:maxHeight">@dimen/seekbar_height</item>
+            <item name="android:minHeight">@dimen/seekbar_height</item>
+            <item name="android:paddingLeft">@dimen/time_margin_sides</item>
+            <item name="android:paddingRight">@dimen/time_margin_sides</item>
+            <item name="android:paddingTop">4dp</item>
+            <item name="android:paddingBottom">4dp</item>
+            <item name="android:progressDrawable">@drawable/po_seekbar</item>
+            <item name="android:thumb">@drawable/seekbar_thumb</item>
+            <item name="android:focusable">true</item>
+      </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="adjustItemLayoutStyle">
+    	    <item name="android:layout_width">match_parent</item>
+    	    <item name="android:layout_height">wrap_content</item>
+    	    <item name="android:gravity">center_vertical</item>
+    	    <item name="android:orientation">horizontal</item>
+    	    <item name="android:layout_marginLeft">25dip</item>
+    	    <item name="android:layout_marginRight">25dip</item>
+    	    <item name="android:layout_marginBottom">10dip</item>
+    	            
+    	</style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="adjustItemTextStyle">
+      	  <item name="android:layout_width">wrap_content</item>
+	      <item name="android:layout_height">wrap_content</item>
+      	  <item name="android:textColor">@color/white</item>
+      	  <item name="android:textSize">16sp</item>
+      	  <item name="android:textStyle">bold</item>
+      	  <item name="android:layout_marginRight">10dip</item>
+    </style></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\generated\res\rs\debug"/><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="CircleButton"><attr format="color" name="cb_color"/><attr format="dimension" name="cb_pressedRingWidth"/></declare-styleable><declare-styleable name="CustomImageView"><attr name="borderRadius"/><attr name="type"/><attr name="src"/></declare-styleable><declare-styleable name="SlidingLayer"><attr format="boolean" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="closeOnTapEnabled"/><attr format="boolean" name="openOnTapEnabled"/><attr format="dimension" name="offsetWidth"/><attr format="enum" name="stickTo"><enum name="auto" value="0"/><enum name="right" value="-1"/><enum name="left" value="-2"/><enum name="middle" value="-3"/><enum name="top" value="-4"/><enum name="bottom" value="-5"/></attr></declare-styleable><declare-styleable name="ColorPicker"><attr format="dimension" name="color_wheel_radius"/><attr format="dimension" name="color_wheel_thickness"/><attr format="dimension" name="color_center_radius"/><attr format="dimension" name="color_center_halo_radius"/><attr format="dimension" name="color_pointer_radius"/><attr format="dimension" name="color_pointer_halo_radius"/></declare-styleable><declare-styleable name="CircleImageViewWithBorder"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable><declare-styleable name="CircularSeekBar"><attr format="integer" name="progress"/><attr format="integer" name="max"/><attr format="boolean" name="move_outside_circle"/><attr format="boolean" name="maintain_equal_circle"/><attr format="boolean" name="use_custom_radii"/><attr format="boolean" name="lock_enabled"/><attr format="float" name="circle_x_radius"/><attr format="float" name="circle_y_radius"/><attr format="float" name="circle_stroke_width"/><attr format="float" name="pointer_radius"/><attr format="float" name="pointer_halo_width"/><attr format="float" name="pointer_halo_border_width"/><attr format="string" name="circle_color"/><attr format="string" name="circle_progress_color"/><attr format="string" name="pointer_color"/><attr format="string" name="pointer_halo_color"/><attr format="string" name="pointer_halo_color_ontouch"/><attr format="integer" name="pointer_alpha_ontouch"/><attr format="float" name="start_angle"/><attr format="float" name="end_angle"/><attr format="string" name="circle_fill"/></declare-styleable><declare-styleable name="ColorBars"><attr format="dimension" name="bar_thickness"/><attr format="dimension" name="bar_length"/><attr format="dimension" name="bar_pointer_radius"/><attr format="dimension" name="bar_pointer_halo_radius"/><attr format="boolean" name="bar_orientation_horizontal"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+  <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="false" >
+
+        <FrameLayout
+            android:id="@+id/player_surface_frame"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:foregroundGravity="clip_horizontal|clip_vertical"
+            tools:ignore="true">
+
+            <SurfaceView
+                android:id="@+id/player_surface"
+                android:layout_width="1dp"
+                android:layout_height="1dp" />
+
+            <SurfaceView
+                android:id="@+id/subtitles_surface"
+                android:layout_width="1dp"
+                android:layout_height="1dp" />
+        </FrameLayout>
+    </FrameLayout>
+
+   <!--     
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true" >
+
+        <include layout="@layout/player_hud"/>
+
+    </RelativeLayout>
+    -->
+      <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true" >
+
+        <LinearLayout
+            android:id="@+id/player_overlay_info"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="@dimen/default_margin">
+            
+            <FrameLayout
+                android:id="@+id/verticalbar"
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:orientation="vertical"
+                    android:weightSum="100"
+                    android:gravity="bottom">
+
+                    <View android:id="@+id/verticalbar_progress"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:background="@color/orange500transparent" />
+                </LinearLayout>
+            </FrameLayout>
+            
+            <TextView
+                android:id="@+id/player_overlay_textinfo"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="36sp"
+                android:visibility="gone" />
+        </LinearLayout>
+        
+        
+        <include layout="@layout/player_hud_effect"/>
+        
+        
+        <Button
+            android:id="@+id/lock_overlay_button" 
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/video_lockbtn_unlock"
+            android:button="@null"/>
+          <Button
+            android:id="@+id/id_player_editvideo" 
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_videoedit_bg"/>
+        
+        
+        <com.example.lansosdk.util.SlidingLayer
+        android:id="@+id/id_play_slideinlayer_effect"
+         android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="70dip">
+            
+         <include 
+             layout="@layout/slide_effect_layout"/>
+         
+    	</com.example.lansosdk.util.SlidingLayer>
+        
+
+       <com.example.lansosdk.util.SlidingLayer
+		        android:id="@+id/id_play_slideinlayer_adjust"
+		        android:layout_width="400dip"
+       			android:layout_height="300dip"
+        		android:layout_marginTop="70dip"
+		        android:layout_centerInParent="true">
+         <include 
+             layout="@layout/slide_adjust_layout"/>
+    	</com.example.lansosdk.util.SlidingLayer>
+    	
+             
+    </RelativeLayout>
+</RelativeLayout>

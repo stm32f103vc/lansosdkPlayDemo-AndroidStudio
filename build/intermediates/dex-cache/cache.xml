@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_43a30ef4777d40048d922f50ddeb6fc4d613d726.jar" />
+    </item>
+    <item
+        jar="E:\andriod_application\android-sdk_r24-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_3ac8d0d80d4b358ba36c34e900636f96f4cb8f5c.jar" />
+    </item>
+    <item
+        jar="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\lansosdkPlayDemo-AS\comlansosdkplaysdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b802b09566f4ca76fcac2fbfbfff7d152ec3fa03">
+        <dex dex="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\pre-dexed\debug\lansosdkPlayDemo-AS-comlansosdkplaysdk-unspecified_0de44b66fd61d432277f53155e885656d3e863c2.jar" />
+    </item>
+    <item
+        jar="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\learn\Android_prj\lansosdkPlayDemo-AS\lansosdkPlayDemo\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_94be9131f9085e954201351b8454d79fc766f581.jar" />
+    </item>
+
+</items>

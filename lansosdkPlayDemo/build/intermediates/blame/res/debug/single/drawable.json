@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_videoedit_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\btn_videoedit_bg.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\chkbox_lock_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\chkbox_lock_bg.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_videosize_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\btn_videosize_bg.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_videoplay_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\btn_videoplay_bg.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\effect_chkbox_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\effect_chkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\btn_pause_bg.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_btn_orange_bg.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable\\corners_btn_orange_bg.xml"
+    }
+]

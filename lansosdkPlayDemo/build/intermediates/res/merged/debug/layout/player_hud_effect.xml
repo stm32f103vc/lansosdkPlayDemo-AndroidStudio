@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/progress_overlay"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="#7F000000">
+
+    <SeekBar
+        android:id="@+id/player_overlay_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="@dimen/seekbar_height"
+        android:minHeight="@dimen/seekbar_height"
+        android:paddingLeft="@dimen/time_margin_sides"
+        android:paddingRight="@dimen/time_margin_sides"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:layout_alignParentTop="true"
+        android:progressDrawable="@drawable/po_seekbar"
+        android:thumb="@drawable/seekbar_thumb"
+        android:focusable="true"/>
+
+    <TextView
+        android:id="@+id/player_overlay_time"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/player_overlay_seekbar"
+        android:layout_alignLeft="@+id/player_overlay_seekbar"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/time_margin_sides"
+        android:gravity="left"
+        android:text="--:--"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/player_overlay_length"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/player_overlay_seekbar"
+        android:layout_alignParentRight="true"
+        android:layout_alignRight="@+id/player_overlay_seekbar"
+        android:layout_marginRight="@dimen/time_margin_sides"
+        android:gravity="right"
+        android:text="--:--"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:id="@+id/player_overlay_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/player_overlay_length">
+        
+        <Button
+            android:id="@+id/player_overlay_play"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/ic_pause_circle_normal"/>
+        <Button
+            android:id="@+id/player_overlay_size"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/btn_videosize_bg" />
+    </RelativeLayout>
+</RelativeLayout>

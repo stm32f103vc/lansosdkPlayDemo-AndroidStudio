@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_seekbar_thumb_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-xxhdpi\\ic_seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_seekbar_thumb_pressed.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-xxhdpi\\ic_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_circle_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-xxhdpi\\ic_pause_circle_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_circle_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-xxhdpi\\ic_play_circle_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

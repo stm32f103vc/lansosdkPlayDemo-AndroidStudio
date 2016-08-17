@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="dimension" name="borderRadius"/>
+    <attr format="reference" name="src"/>
+    <attr name="type">
+		        <enum name="circle" value="0"/>
+		        <enum name="round" value="1"/>
+		    </attr>
+    <color name="black">#000001</color>
+    <color name="blacktransparent">#b4000000</color>
+    <color name="grey400transparent">#80bdbdbd</color>
+    <color name="grey50transparent">#dcfafafa</color>
+    <color name="grey900transparent">#80212121</color>
+    <color name="orange500transparent">#FF6347</color>
+    <color name="white">#ffffff</color>
+    <color name="whitetransparent">#dcffffff</color>
+    <declare-styleable name="CircleButton"><attr format="color" name="cb_color"/><attr format="dimension" name="cb_pressedRingWidth"/></declare-styleable>
+    <declare-styleable name="CircleImageViewWithBorder"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="CircularSeekBar"><attr format="integer" name="progress"/><attr format="integer" name="max"/><attr format="boolean" name="move_outside_circle"/><attr format="boolean" name="maintain_equal_circle"/><attr format="boolean" name="use_custom_radii"/><attr format="boolean" name="lock_enabled"/><attr format="float" name="circle_x_radius"/><attr format="float" name="circle_y_radius"/><attr format="float" name="circle_stroke_width"/><attr format="float" name="pointer_radius"/><attr format="float" name="pointer_halo_width"/><attr format="float" name="pointer_halo_border_width"/><attr format="string" name="circle_color"/><attr format="string" name="circle_progress_color"/><attr format="string" name="pointer_color"/><attr format="string" name="pointer_halo_color"/><attr format="string" name="pointer_halo_color_ontouch"/><attr format="integer" name="pointer_alpha_ontouch"/><attr format="float" name="start_angle"/><attr format="float" name="end_angle"/><attr format="string" name="circle_fill"/></declare-styleable>
+    <declare-styleable name="ColorBars"><attr format="dimension" name="bar_thickness"/><attr format="dimension" name="bar_length"/><attr format="dimension" name="bar_pointer_radius"/><attr format="dimension" name="bar_pointer_halo_radius"/><attr format="boolean" name="bar_orientation_horizontal"/></declare-styleable>
+    <declare-styleable name="ColorPicker"><attr format="dimension" name="color_wheel_radius"/><attr format="dimension" name="color_wheel_thickness"/><attr format="dimension" name="color_center_radius"/><attr format="dimension" name="color_center_halo_radius"/><attr format="dimension" name="color_pointer_radius"/><attr format="dimension" name="color_pointer_halo_radius"/></declare-styleable>
+    <declare-styleable name="CustomImageView"><attr name="borderRadius"/><attr name="type"/><attr name="src"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="SlidingLayer"><attr format="boolean" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="closeOnTapEnabled"/><attr format="boolean" name="openOnTapEnabled"/><attr format="dimension" name="offsetWidth"/><attr format="enum" name="stickTo"><enum name="auto" value="0"/><enum name="right" value="-1"/><enum name="left" value="-2"/><enum name="middle" value="-3"/><enum name="top" value="-4"/><enum name="bottom" value="-5"/></attr></declare-styleable>
+    <dimen name="actionBarSize">56dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="adv_options_margin">24dp</dimen>
+    <dimen name="adv_options_music_width">152dp</dimen>
+    <dimen name="adv_options_video_width">224dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="dialog_time_picker_width">240dp</dimen>
+    <dimen name="effect_ckx_height">30dp</dimen>
+    <dimen name="effect_ckx_width">60dp</dimen>
+    <dimen name="file_picker_height">-1px</dimen>
+    <dimen name="file_picker_width">300dip</dimen>
+    <dimen name="half_default_margin">8dp</dimen>
+    <dimen name="images_margin_sides">10dp</dimen>
+    <dimen name="media_ctrl_margin_top">20dp</dimen>
+    <dimen name="overlay_margin">2dp</dimen>
+    <dimen name="overlay_padding_bottom">8dip</dimen>
+    <dimen name="overlay_padding_sides">5dp</dimen>
+    <dimen name="overlay_padding_top">10dip</dimen>
+    <dimen name="seekbar_height">2dip</dimen>
+    <dimen name="time_margin_sides">12dp</dimen>
+    <dimen name="tv_overscan_horizontal">0dp</dimen>
+    <dimen name="tv_overscan_vertical">0dp</dimen>
+    <string name="about_lansosdkplay">关于LanSoSdkPlay:</string>
+    <string name="about_lansosdkplay_text">这个是我们的LanSoSdk中的播放套件, 提供视频播放功能, 全面支持软解和硬解,支持速率可调,支持音频可调,支持3D播放等功能.\n演示版本可以从这里下载:https://github.com/LanSoSdk/LanSoSdkPlayDemo,欢迎使用.</string>
+    <string name="about_this_app">关于本软件:</string>
+    <string name="about_this_app_text">把普通的视频, 转换为红蓝3D或左右屏3D形式来播放.\n其中红蓝3D,需要您带上红蓝3D眼镜才显示正常效果.\n左右屏3D, 是需要带网上买的很多的3D头戴式眼镜,比如谷歌的cardboard眼镜,魔镜等才可以看到3D效果.</string>
+    <string name="about_us">关于我们::</string>
+    <string name="about_us_text">提供android/ios移动平台的视频编解码,录制/播放等相关的多媒体开发和定制.提供的SDK均是调用简单,功能强大,稳定可靠.采用基本功能免费, 公司定制功能收费的盈利模式,欢迎和我们联系.support@lansongtech.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">lansosdkPlayDemo</string>
+    <string name="back_quit_lock">再次按下“返回”可退出视频播放</string>
+    <string name="brightness">亮度</string>
+    <string name="current_lansosdk_version">LanSoSdkPlay版本:</string>
+    <string name="current_ui_version">当前版本:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Hint(提示)</string>
+    <string name="lansosdk_publish">LanSoSdk提供</string>
+    <string name="locked">已锁定</string>
+    <string name="no_free_hint">the project is only used to Demonstrate,Advanced features are not free and only runing on this.\n(工程仅仅是演示,高级功能不免费,只能运行)</string>
+    <string name="set_video_source">Please set a variable path at MainActivity.java(请设置播放源)</string>
+    <string name="sound_off">声音关闭</string>
+    <string name="sound_on">声音开启</string>
+    <string name="surface_best_fit">最为合适</string>
+    <string name="surface_fill">拉伸填充</string>
+    <string name="surface_fit_horizontal">水平匹配</string>
+    <string name="surface_fit_vertical">垂直匹配</string>
+    <string name="surface_original">居中</string>
+    <string name="unlocked">已解锁</string>
+    <string name="unseekable_stream">播放时不支持定位的流</string>
+    <string name="volume">音量</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="adjustItemLayoutStyle">
+    	    <item name="android:layout_width">match_parent</item>
+    	    <item name="android:layout_height">wrap_content</item>
+    	    <item name="android:gravity">center_vertical</item>
+    	    <item name="android:orientation">horizontal</item>
+    	    <item name="android:layout_marginLeft">25dip</item>
+    	    <item name="android:layout_marginRight">25dip</item>
+    	    <item name="android:layout_marginBottom">10dip</item>
+    	            
+    	</style>
+    <style name="adjustItemSeekbarStyle">
+            <item name="android:layout_width">match_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:maxHeight">@dimen/seekbar_height</item>
+            <item name="android:minHeight">@dimen/seekbar_height</item>
+            <item name="android:paddingLeft">@dimen/time_margin_sides</item>
+            <item name="android:paddingRight">@dimen/time_margin_sides</item>
+            <item name="android:paddingTop">4dp</item>
+            <item name="android:paddingBottom">4dp</item>
+            <item name="android:progressDrawable">@drawable/po_seekbar</item>
+            <item name="android:thumb">@drawable/seekbar_thumb</item>
+            <item name="android:focusable">true</item>
+      </style>
+    <style name="adjustItemTextStyle">
+      	  <item name="android:layout_width">wrap_content</item>
+	      <item name="android:layout_height">wrap_content</item>
+      	  <item name="android:textColor">@color/white</item>
+      	  <item name="android:textSize">16sp</item>
+      	  <item name="android:textStyle">bold</item>
+      	  <item name="android:layout_marginRight">10dip</item>
+    </style>
+</resources>

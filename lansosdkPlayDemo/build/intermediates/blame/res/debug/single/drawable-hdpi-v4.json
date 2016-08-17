@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_lockbtn_locked.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_lockbtn_locked.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_edit_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_edit_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_pause_pressed.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_pressed.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_play_pressed.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_pause_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_pause_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_edit_pressed.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_edit_pressed.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_lockbtn_unlock.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_lockbtn_unlock.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_seekbar_thumb_pressed.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\ic_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\video_play_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fit_screen_btn_pressed.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\fit_screen_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fit_screen_btn_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\fit_screen_btn_normal.png"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_seekbar_thumb_normal.png",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\drawable-hdpi\\ic_seekbar_thumb_normal.png"
+    }
+]

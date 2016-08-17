@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\slide_adjust_layout.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\slide_adjust_layout.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\play_3d.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\play_3d.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\slide_effect_layout.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\slide_effect_layout.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\player_hud.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\player_hud.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\player.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\player_hud_effect.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\player_hud_effect.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\player_effect.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\player_effect.xml"
+    },
+    {
+        "merged": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\learn\\Android_prj\\lansosdkPlayDemo-AS\\lansosdkPlayDemo\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:background="@drawable/corners_btn_orange_bg">
+     
+     <TextView 
+         android:id="@+id/id_adjust_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" 
+         android:textStyle="bold" android:textColor="@color/white" android:text="调节图像/深褐程度/颜色显示" android:textSize="20sp"
+         android:layout_centerHorizontal="true" android:layout_alignParentTop="true" android:layout_margin="5dip"/>
+     
+     <ScrollView 
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_below="@+id/id_adjust_textview">
+         
+           <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical" 
+	        android:gravity="center">
+	        
+	<View  android:layout_width="match_parent" android:layout_height="2dip" android:background="#FF0000" android:layout_marginBottom="8dip"/>
+               <!-- ============================================== -->
+          <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+               <TextView 
+		        android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/white"
+		        android:text="调节图像" android:textSize="16sp" android:textStyle="bold" android:layout_marginLeft="10dip" android:layout_marginRight="10dip"/>
+          
+		    <CheckBox 
+		        android:id="@+id/id_play_adjust_adjustenable_ckx" android:layout_width="@dimen/effect_ckx_width" android:layout_height="@dimen/effect_ckx_height"
+		        android:background="@drawable/effect_chkbox_bg"  android:button="@null"/>
+          </LinearLayout>   
+		          <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="对比度  "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_contrast_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		          </LinearLayout>   
+		          <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="色度    "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_hue_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		          </LinearLayout>  
+		          <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="饱和度  "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_saturation_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		          </LinearLayout>  
+		          <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="图像亮度"/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_brightness_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		          </LinearLayout>  
+		          <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="伽玛    "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_gamma_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		          </LinearLayout> 
+		          
+		          
+		    
+	<View  android:layout_width="match_parent" android:layout_height="2dip" android:background="#FF0000" android:layout_marginBottom="8dip"/>    
+		                <!-- ============================================== -->
+         <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+               <TextView 
+		        android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/white"
+		        android:text="深褐程度" android:textSize="16sp" android:textStyle="bold" android:layout_marginLeft="10dip" android:layout_marginRight="10dip"/>
+          
+		    <CheckBox 
+		        android:id="@+id/id_play_adjust_sepiaenable_ckx" android:layout_width="@dimen/effect_ckx_width" android:layout_height="@dimen/effect_ckx_height"
+		        android:background="@drawable/effect_chkbox_bg"  android:button="@null"/>
+          </LinearLayout>  
+               
+           <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="程度 "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_sepia_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		   </LinearLayout>   
+		          
+           
+          
+	<View  android:layout_width="match_parent" android:layout_height="2dip" android:background="#FF0000" android:layout_marginBottom="8dip"/>
+                  <!-- ============================================== -->
+         <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+               <TextView 
+		        android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/white"
+		        android:text="颜色显示" android:textSize="16sp" android:textStyle="bold" android:layout_marginLeft="10dip" android:layout_marginRight="10dip"/>
+          
+		    <CheckBox 
+		        android:id="@+id/id_play_adjust_extractcolor_ckx" android:layout_width="@dimen/effect_ckx_width" android:layout_height="@dimen/effect_ckx_height"
+		        android:background="@drawable/effect_chkbox_bg"  android:button="@null"/>
+          </LinearLayout>  
+               
+           <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="红色 "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_extract_red_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		    </LinearLayout>   
+		          
+              <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="绿色 "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_extract_green_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		    </LinearLayout> 
+		      
+		       <LinearLayout  style="@style/adjustItemLayoutStyle">
+		            	<TextView style="@style/adjustItemTextStyle" android:text="蓝色 "/>
+		            	<SeekBar
+		            	    	android:id="@+id/id_adjust_extract_blue_seekbar" 
+		            	    	style="@style/adjustItemSeekbarStyle"/>
+		    </LinearLayout>   
+		    
+           
+               
+          </LinearLayout>
+     </ScrollView>
+ </RelativeLayout>

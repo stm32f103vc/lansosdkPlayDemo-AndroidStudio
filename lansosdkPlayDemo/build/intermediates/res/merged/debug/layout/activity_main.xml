@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lansosdkplaydemo.MainActivity"
+    android:background="#EBEBF3"
+     >
+
+    
+         <Button 
+        android:id="@+id/id_main_allcodec_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:text="use_all_codec_play"
+        android:layout_marginTop="30dip"/>
+         
+            <Button 
+        android:id="@+id/id_main_software_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:text="use_software_codec_play"
+        android:layout_marginTop="30dip"/>
+            
+               
+		<Button 
+        android:id="@+id/id_main_3ddemo_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:text="3D Play Demo"
+        android:layout_marginTop="30dip"/>
+            
+			<Button 
+        android:id="@+id/id_main_effectdemo_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:text="Video Filter Demo"
+        android:layout_marginTop="30dip"/>
+            
+         
+</LinearLayout>
